@@ -1,0 +1,786 @@
+{
+  "options":[
+    {
+      "name":"cherry_thousand-layer_crispy_cookie",
+      "rarity":"purple",
+      "tab":"alien_dessert",
+      "stats": {
+        "fixed_attack":[5490, 10980, 21960, 43920, 87840]
+      },
+      "chances":[0.8,0.8,0.8,0.8]
+    },
+    {
+      "name":"blueberry_egg_tart",
+      "rarity":"purple",
+      "tab":"alien_dessert",
+      "stats": {
+        "fixed_hp":[416700, 833400, 1666800, 3333600, 6667200]
+      },
+      "chances":[0.8,0.8,0.8,0.8]
+    },
+    {
+      "name":"cream_of_mushroom_soup",
+      "rarity":"purple",
+      "tab":"alien_dessert",
+      "stats": {
+        "fixed_attack":[906, 1812, 3624, 7248, 14496],
+        "fixed_hp":[122310, 244620, 489240, 978480, 1956960],
+        "exclusive": {
+          "void_campaign": {
+            "skill_damage":[25,37.5,56.3,84.5,126.8]
+          }
+        }
+      },
+      "chances":[0.8,0.8,0.8,0.8]
+    },
+    {
+      "name":"strawberry_lava_bread",
+      "rarity":"purple",
+      "tab":"alien_dessert",
+      "stats": {
+        "fixed_attack":[1960, 3920, 7840, 15680, 31360],
+        "fixed_hp":[264600, 529200, 1058400, 2116800, 4233600]
+      },
+      "chances":[0.8,0.8,0.8,0.8]
+    },
+    {
+      "name":"milk_square",
+      "rarity":"purple",
+      "tab":"alien_dessert",
+      "stats": {
+        "fixed_attack":[3252, 6504, 13008, 26016, 52032],
+        "fixed_hp":[195120, 390240, 780480, 1560960, 3121920]
+      },
+      "chances":[0.8,0.8,0.8,0.8]
+    },
+    {
+      "name":"sweet_almond_ice_cream",
+      "rarity":"green",
+      "tab":"alien_dessert",
+      "stats": {
+        "fixed_attack":[3577, 7155, 14310, 28620, 57240],
+        "exclusive": {
+          "void_campaign": {
+            "armor_break":[7,10.5,15.8,23.7,35.6]
+          }
+        }
+      },
+      "chances":[0.4,0.4,0.4,0.4]
+    },
+    {
+      "name":"butter_potato_pie",
+      "rarity":"green",
+      "tab":"alien_dessert",
+      "stats": {
+        "fixed_hp":[307125, 614250, 1228500, 2457000, 4914000],
+        "exclusive": {
+          "void_campaign": {
+            "armor":[8,12,18,27,40.5]
+          }
+        }
+      },
+      "chances":[0.4,0.4,0.4,0.4]
+    },
+    {
+      "name":"refreshing_lemon_tea",
+      "rarity":"green",
+      "tab":"alien_dessert",
+      "stats": {
+        "fixed_attack":[1528, 3057, 6115, 12231, 24462],
+        "fixed_hp":[168176, 336352, 672705, 1345410, 2690820],
+        "exclusive": {
+          "void_campaign": {
+            "holy_damage":[5,7.5,11.3,17,25.5]
+          }
+        }
+      },
+      "chances":[0.4,0.4,0.4,0.4]
+    },
+    {
+      "name":"honey_waffle",
+      "rarity":"green",
+      "tab":"alien_dessert",
+      "stats": {
+        "fixed_attack":[2840, 5680, 11361, 22722, 45444],
+        "fixed_hp":[474727, 949455, 1898910, 3797820, 7595640]
+      },
+      "chances":[0.4,0.4,0.4,0.4]
+    },
+    {
+      "name":"cheese_sandwich",
+      "rarity":"green",
+      "tab":"alien_dessert",
+      "stats": {
+        "fixed_attack":[4475, 8950, 17901, 35802, 71604],
+        "fixed_hp":[216877, 433755, 867510, 1735020, 3470040]
+      },
+      "chances":[0.4,0.4,0.4,0.4]
+    },
+    {
+      "name":"velvet_chessboard_cake",
+      "rarity":"red",
+      "tab":"alien_dessert",
+      "stats": {
+        "fixed_attack":[6725, 13450, 26900, 53800, 107600],
+        "exclusive": {
+          "void_campaign": {
+            "block":[12,18,27,40.5,60.8]
+          }
+        }
+      },
+      "chances":[0.267,0.267,0.267,0.267]
+    },
+    {
+      "name":"sweet_rose_cupcake",
+      "rarity":"red",
+      "tab":"alien_dessert",
+      "stats": {
+        "fixed_hp":[579375, 1158750, 2317500, 4635000, 9270000],
+        "exclusive": {
+          "void_campaign": {
+            "precision":[10,15,22.5,33.8,50.7]
+          }
+        }
+      },
+      "chances":[0.267,0.267,0.267,0.267]
+    },
+    {
+      "name":"cute_snow_bun",
+      "rarity":"red",
+      "tab":"alien_dessert",
+      "stats": {
+        "fixed_attack":[5850, 11700, 23400, 46800, 93600],
+        "fixed_hp":[526500, 1053000, 2106000, 4212000, 8424000]
+      },
+      "chances":[0.266,0.266,0.266,0.266]
+    },
+    {
+      "name":"pine_nut_and_almond_pudding",
+      "rarity":"red",
+      "tab":"alien_dessert",
+      "stats": {
+        "fixed_attack":[1815, 3630, 7260, 14520, 29040],
+        "fixed_hp":[381150, 762300, 1524600, 3049200, 6098400],
+        "exclusive": {
+          "void_campaign": {
+            "hp":[3,4.5,6.8,10.2,15.3]
+          }
+        }
+      },
+      "chances":[0.266,0.266,0.266,0.266]
+    },
+    {
+      "name":"reverie_rainbow_macaron",
+      "rarity":"red",
+      "tab":"alien_dessert",
+      "stats": {
+        "fixed_attack":[4558, 9117, 18235, 36470, 72940],
+        "fixed_hp":[381150, 762300, 1524600, 3049200, 6098400],
+        "exclusive": {
+          "void_campaign": {
+            "attack":[2,3,4.5,6.8,10.2]
+          }
+        }
+      },
+      "chances":[0.266,0.266,0.266,0.266]
+    },
+    {
+      "name":"sea_breeze_cheese_puff",
+      "rarity":"orange",
+      "tab":"alien_dessert",
+      "stats": {
+        "fixed_attack":[12400, 24800, 49600, 99200, 198400],
+        "fixed_hp":[1674000, 3348000, 6696000, 13392000, 26784000],
+        "exclusive": {
+          "void_campaign": {
+            "crit":[5,7.5,11.3,17,25.5]
+          }
+        }
+      },
+      "chances":[0.2,0.2,0.2,0.2]
+    },
+    {
+      "name":"bear_party_ice_cream",
+      "rarity":"orange",
+      "tab":"alien_dessert",
+      "stats": {
+        "fixed_attack":[29562, 59125, 118250, 236500, 473000],
+        "exclusive": {
+          "void_campaign": {
+            "damage_reduction":[4,6,9,13.5,20.3]
+          }
+        }
+      },
+      "chances":[0.2,0.2,0.2,0.2]
+    },
+    {
+      "name":"cloud_milk_bread_rolls",
+      "rarity":"orange",
+      "tab":"alien_dessert",
+      "stats": {
+        "fixed_hp":[2626875, 5253750, 10507500, 21015000, 42030000],
+        "exclusive": {
+          "void_campaign": {
+            "control_immunity":[4,6,9,13.5,20.3]
+          }
+        }
+      },
+      "chances":[0.2,0.2,0.2,0.2]
+    },
+    {
+      "name":"sweet_home_pie",
+      "rarity":"pink",
+      "tab":"alien_dessert",
+      "stats": {
+        "fixed_attack":[47343, 94687, 189375, 378750, 757500],
+        "exclusive": {
+          "void_campaign": {
+            "damage_reduction_by_attack":[40,60,90,135,202]
+          }
+        }
+      },
+      "chances":[0.2,0.2,0.2,0.2]
+    },
+    {
+      "name":"butterfly_sky_mouse",
+      "rarity":"pink",
+      "tab":"alien_dessert",
+      "stats": {
+        "fixed_hp":[4193437, 8386875, 16773750, 33547500, 67095000],
+        "exclusive": {
+          "void_campaign": {
+            "speed":[40,60,90,135,202]
+          }
+        }
+      },
+      "chances":[0.2,0.2,0.2,0.2]
+    },
+    {
+      "name":"cavalry_sword",
+      "rarity":"purple",
+      "tab":"forgotten_artifact",
+      "stats": {
+        "fixed_attack":[5080, 10160, 20320, 40640, 81280]
+      },
+      "chances":[0.8,0.8,0.8,0.8]
+    },
+    {
+      "name":"heavy_slash_hammer",
+      "rarity":"purple",
+      "tab":"forgotten_artifact",
+      "stats": {
+        "fixed_hp":[408600, 817200, 1634400, 3268800, 6537600]
+      },
+      "chances":[0.8,0.8,0.8,0.8]
+    },
+    {
+      "name":"refined_steel_dagger",
+      "rarity":"purple",
+      "tab":"forgotten_artifact",
+      "stats": {
+        "fixed_attack":[978, 1956, 3912, 7824, 15648],
+        "fixed_hp":[132030, 264060, 528120, 1056240, 2112480],
+        "exclusive": {
+          "void": {
+            "skill_damage":[25,37.5,56.3,84.5,126.8]
+          }
+        }
+      },
+      "chances":[0.8,0.8,0.8,0.8]
+    },
+    {
+      "name":"heavy_iron_axe",
+      "rarity":"purple",
+      "tab":"forgotten_artifact",
+      "stats": {
+        "fixed_attack":[1816, 3632, 7264, 14528, 29056],
+        "fixed_hp":[245160, 490320, 980640, 1961280, 3922560]
+      },
+      "chances":[0.8,0.8,0.8,0.8]
+    },
+    {
+      "name":"dwarf_crossbow",
+      "rarity":"purple",
+      "tab":"forgotten_artifact",
+      "stats": {
+        "fixed_attack":[3282, 6564, 13128, 26256, 52512],
+        "fixed_hp":[196920, 393840, 787680, 1575360, 3150720]
+      },
+      "chances":[0.8,0.8,0.8,0.8]
+    },
+    {
+      "name":"whirlwind_meteor_hammer",
+      "rarity":"green",
+      "tab":"forgotten_artifact",
+      "stats": {
+        "fixed_attack":[3547, 7095, 14190, 28380, 56760],
+        "exclusive": {
+          "void": {
+            "armor_break":[7,10.5,15.8,23.7,35.6]
+          }
+        }
+      },
+      "chances":[0.4,0.4,0.4,0.4]
+    },
+    {
+      "name":"gilded_nunchuck",
+      "rarity":"green",
+      "tab":"forgotten_artifact",
+      "stats": {
+        "fixed_hp":[319950, 639900, 1279800, 2559600, 5119200],
+        "exclusive": {
+          "void": {
+            "armor":[8,12,18,27,40.5]
+          }
+        }
+      },
+      "chances":[0.4,0.4,0.4,0.4]
+    },
+    {
+      "name":"savage_mace",
+      "rarity":"green",
+      "tab":"forgotten_artifact",
+      "stats": {
+        "fixed_attack":[1667, 3334, 6669, 13338, 26676],
+        "fixed_hp":[183397, 366795, 733590, 1467180, 2934360],
+        "exclusive": {
+          "void": {
+            "holy_damage":[5,7.5,11.3,17,25.5]
+          }
+        }
+      },
+      "chances":[0.4,0.4,0.4,0.4]
+    },
+    {
+      "name":"glory_barrier_shield",
+      "rarity":"green",
+      "tab":"forgotten_artifact",
+      "stats": {
+        "fixed_attack":[2483, 4966, 9933, 19866, 39732],
+        "fixed_hp":[415057, 830115, 1660230, 3320460, 6640920]
+      },
+      "chances":[0.4,0.4,0.4,0.4]
+    },
+    {
+      "name":"dexterous_bow",
+      "rarity":"green",
+      "tab":"forgotten_artifact",
+      "stats": {
+        "fixed_attack":[4650, 9301, 18603, 37206, 74412],
+        "fixed_hp":[225382, 450765, 901530, 1803060, 3606120]
+      },
+      "chances":[0.4,0.4,0.4,0.4]
+    },
+    {
+      "name":"moon_dragon_blade",
+      "rarity":"red",
+      "tab":"forgotten_artifact",
+      "stats": {
+        "fixed_attack":[6612, 13225, 26450, 52900, 105800],
+        "exclusive": {
+          "void": {
+            "block":[12,18,27,40.5,60.8]
+          }
+        }
+      },
+      "chances":[0.267,0.267,0.267,0.267]
+    },
+    {
+      "name":"super_alien_gun",
+      "rarity":"red",
+      "tab":"forgotten_artifact",
+      "stats": {
+        "fixed_hp":[528750, 1057500, 2115000, 4230000, 8460000],
+        "exclusive": {
+          "void": {
+            "precision":[10,15,22.5,33.8,50.7]
+          }
+        }
+      },
+      "chances":[0.267,0.267,0.267,0.267]
+    },
+    {
+      "name":"raging_storm_device",
+      "rarity":"red",
+      "tab":"forgotten_artifact",
+      "stats": {
+        "fixed_attack":[6762, 13525, 27050, 54100, 108200],
+        "fixed_hp":[608625, 1217250, 2434500, 4869000, 9738000]
+      },
+      "chances":[0.267,0.267,0.267,0.267]
+    },
+    {
+      "name":"goddess_goblet",
+      "rarity":"red",
+      "tab":"forgotten_artifact",
+      "stats": {
+        "fixed_attack":[1991, 3982, 7965, 15930, 31860],
+        "fixed_hp":[418162, 836325, 1672650, 3345300, 6690600],
+        "exclusive": {
+          "void": {
+            "hp":[3,4.5,6.8,10.2,15.3]
+          }
+        }
+      },
+      "chances":[0.267,0.267,0.267,0.267]
+    },
+    {
+      "name":"sky_devouring_umbrella",
+      "rarity":"red",
+      "tab":"forgotten_artifact",
+      "stats": {
+        "fixed_attack":[4585, 9170, 18340, 36680, 73360],
+        "fixed_hp":[176850, 353700, 707400, 1414800, 2829600],
+        "exclusive": {
+          "void": {
+            "attack":[2,3,4.5,6.8,10.2]
+          }
+        }
+      },
+      "chances":[0.267,0.267,0.267,0.267]
+    },
+    {
+      "name":"auroral_holy_sword",
+      "rarity":"orange",
+      "tab":"forgotten_artifact",
+      "stats": {
+        "fixed_attack":[13650, 27300, 54600, 109200, 218400],
+        "fixed_hp":[1842750, 3685500, 7371000, 14742000, 29484000],
+        "exclusive": {
+          "void": {
+            "crit_damage_reduction":[5,7.5,11.3,17,25.5]
+          }
+        }
+      },
+      "chances":[0.2,0.2,0.2,0.2]
+    },
+    {
+      "name":"stone_gaze_mask",
+      "rarity":"orange",
+      "tab":"forgotten_artifact",
+      "stats": {
+        "fixed_attack":[33750, 67500, 135000, 270000, 540000],
+        "exclusive": {
+          "void": {
+            "speed":[30,45,67,101,151]
+          }
+        }
+      },
+      "chances":[0.2,0.2,0.2,0.2]
+    },
+    {
+      "name":"sacred_trident",
+      "rarity":"orange",
+      "tab":"forgotten_artifact",
+      "stats": {
+        "fixed_hp":[2615625, 5231250, 10507500, 20925000, 41850000],
+        "exclusive": {
+          "void": {
+            "crit_damage":[10,15,22.5,33.8,50.7]
+          }
+        }
+      },
+      "chances":[0.2,0.2,0.2,0.2]
+    },
+    {
+      "name":"void_radiation_gun",
+      "rarity":"pink",
+      "tab":"forgotten_artifact",
+      "stats": {
+        "fixed_attack":[47351, 95062, 190125, 380250, 760500],
+        "exclusive": {
+          "void": {
+            "control_immunity":[5,7.5,11.3,17,25.5]
+          }
+        }
+      },
+      "chances":[0.2,0.2,0.2,0.2]
+    },
+    {
+      "name":"scorching_laser_gun",
+      "rarity":"pink",
+      "tab":"forgotten_artifact",
+      "stats": {
+        "fixed_hp":[4235625, 8471250, 16942500, 33885000, 67770000],
+        "exclusive": {
+          "void": {
+            "all_damage_reduction":[5,7.5,11.3,17,25.5]
+          }
+        }
+      },
+      "chances":[0.2,0.2,0.2,0.2]
+    },
+    {
+      "name":"forest_essential_oil",
+      "rarity":"purple",
+      "tab":"hero_token",
+      "stats": {
+        "fixed_attack":[5150, 10300, 20600, 41200, 82400]
+      },
+      "chances":[0.8,0.8,0.8,0.8]
+    },
+    {
+      "name":"dark_lands_diary",
+      "rarity":"purple",
+      "tab":"hero_token",
+      "stats": {
+        "fixed_hp":[416700, 833400, 1666800, 3333600, 6667200]
+      },
+      "chances":[0.8,0.8,0.8,0.8]
+    },
+    {
+      "name":"dancers_comb",
+      "rarity":"purple",
+      "tab":"hero_token",
+      "stats": {
+        "fixed_attack":[2068, 4136, 8272, 16544, 33088],
+        "fixed_hp":[279180, 558360, 1116720, 2233440, 4466880]
+      },
+      "chances":[0.8,0.8,0.8,0.8]
+    },
+    {
+      "name":"curious_owl",
+      "rarity":"purple",
+      "tab":"hero_token",
+      "stats": {
+        "fixed_attack":[1964, 3928, 7856, 15712, 31424],
+        "fixed_hp":[265140, 530280, 1060560, 2121120, 4242240]
+      },
+      "chances":[0.8,0.8,0.8,0.8]
+    },
+    {
+      "name":"cursed_toy",
+      "rarity":"purple",
+      "tab":"hero_token",
+      "stats": {
+        "fixed_attack":[3234, 6468, 12936, 25872, 51744],
+        "fixed_hp":[194040, 388080, 776160, 1552320, 3104640]
+      },
+      "chances":[0.8,0.8,0.8,0.8]
+    },
+    {
+      "name":"blessed_bamboo",
+      "rarity":"green",
+      "tab":"hero_token",
+      "stats": {
+        "fixed_attack":[3427, 6855, 13710, 27420, 54840],
+        "exclusive": {
+          "priest": {
+            "hp":[2,3,4.5,6.8,10.2]
+          }
+        }
+      },
+      "chances":[0.4,0.4,0.4,0.4]
+    },
+    {
+      "name":"worm_jam",
+      "rarity":"green",
+      "tab":"hero_token",
+      "stats": {
+        "fixed_hp":[361125, 722250, 1444500, 2889000, 5778000],
+        "exclusive": {
+          "assassin": {
+            "armor_break":[4,6,9,13.5,20.3]
+          }
+        }
+      },
+      "chances":[0.4,0.4,0.4,0.4]
+    },
+    {
+      "name":"soul_tailors_scissors",
+      "rarity":"green",
+      "tab":"hero_token",
+      "stats": {
+        "fixed_attack":[1596, 3192, 6385, 12771, 25542],
+        "fixed_hp":[175691, 351202, 702405, 1404810, 2809620],
+        "exclusive": {
+          "ranger": {
+            "block":[4,6,9,13.5,20.3]
+          }
+        }
+      },
+      "chances":[0.4,0.4,0.4,0.4]
+    },
+    {
+      "name":"killers_veil",
+      "rarity":"green",
+      "tab":"hero_token",
+      "stats": {
+        "fixed_attack":[1212, 2425, 4851, 9702, 19404],
+        "fixed_hp":[202702, 405405, 810810, 1621620, 3243240],
+        "exclusive": {
+          "mage": {
+            "skill_damage":[8,12,18,27,40.5]
+          }
+        }
+      },
+      "chances":[0.4,0.4,0.4,0.4]
+    },
+    {
+      "name":"war_gods_helmet",
+      "rarity":"green",
+      "tab":"hero_token",
+      "stats": {
+        "fixed_attack":[2442, 4884, 9769, 19539, 39078],
+        "fixed_hp":[118361, 236722, 473445, 946890, 1893780],
+        "exclusive": {
+          "warrior": {
+            "skill_damage":[8,12,18,27,40.5]
+          }
+        }
+      },
+      "chances":[0.4,0.4,0.4,0.4]
+    },
+    {
+      "name":"alchemists_eyeglass",
+      "rarity":"red",
+      "tab":"hero_token",
+      "stats": {
+        "fixed_attack":[6787, 13575, 27150, 54300, 108600],
+        "exclusive": {
+          "mage": {
+            "control_precision":[4,6,9,13.5,20.3]
+          }
+        }
+      },
+      "chances":[0.267,0.267,0.267,0.267]
+    },
+    {
+      "name":"star-studded_lipstick",
+      "rarity":"red",
+      "tab":"hero_token",
+      "stats": {
+        "fixed_hp":[520875, 1041750, 2083500, 4167000, 8334000],
+        "exclusive": {
+          "warrior": {
+            "damage_reduction":[3,4.5,6.8,10.2,15.3]
+          }
+        }
+      },
+      "chances":[0.266,0.266,0.266,0.266]
+    },
+    {
+      "name":"sheriffs_pistol",
+      "rarity":"red",
+      "tab":"hero_token",
+      "stats": {
+        "fixed_attack":[3250, 6500, 13000, 26000, 52000],
+        "fixed_hp":[292500, 585000, 1170000, 2340000, 4680000],
+        "exclusive": {
+          "priest": {
+            "heal_effect":[8,12,18,27,40.5]
+          }
+        }
+      },
+      "chances":[0.266,0.266,0.266,0.266]
+    },
+    {
+      "name":"magic_fairy_messenger",
+      "rarity":"red",
+      "tab":"hero_token",
+      "stats": {
+        "fixed_attack":[2028, 4057, 8115, 16230, 32460],
+        "fixed_hp":[426037, 852075, 1704150, 3408300, 6816600],
+        "exclusive": {
+          "ranger": {
+            "holy_damage":[4,6,9,13.5,20.3]
+          }
+        }
+      },
+      "chances":[0.267,0.267,0.267,0.267]
+    },
+    {
+      "name":"star_clouding_glove",
+      "rarity":"red",
+      "tab":"hero_token",
+      "stats": {
+        "fixed_attack":[4628, 9257, 18515, 37030, 74060],
+        "fixed_hp":[178537, 357075, 714150, 1428300, 2856600],
+        "exclusive": {
+          "assassin": {
+            "crit":[3,4.5,6.8,10.2,15.3]
+          }
+        }
+      },
+      "chances":[0.267,0.267,0.267,0.267]
+    },
+    {
+      "name":"celebration_evening_gown",
+      "rarity":"orange",
+      "tab":"hero_token",
+      "stats": {
+        "fixed_attack":[13125, 26250, 52500, 105000, 210000],
+        "fixed_hp":[1771875, 3543750, 7087500, 14175000, 28350000],
+        "exclusive": {
+          "priest": {
+            "control_immunity":[3,4.5,6.8,10.2,15.3]
+          }
+        }
+      },
+      "chances":[0.2,0.2,0.2,0.2]
+    },
+    {
+      "name":"soul_conjuring_flute",
+      "rarity":"orange",
+      "tab":"hero_token",
+      "stats": {
+        "fixed_attack":[32500, 65000, 130000, 26000, 520000],
+        "exclusive": {
+          "warrior": {
+            "crit_damage_reduction":[5,7.5,11.3,17,25.5]
+          }
+        }
+      },
+      "chances":[0.2,0.2,0.2,0.2]
+    },
+    {
+      "name":"lady_sunshade_hat",
+      "rarity":"orange",
+      "tab":"hero_token",
+      "stats": {
+        "fixed_hp":[2806875, 5613750, 11227500, 22455000, 44910000],
+        "exclusive": {
+          "mage": {
+            "control_immunity_offset":[4,6,9,13.5,20.3]
+          }
+        }
+      },
+      "chances":[0.2,0.2,0.2,0.2]
+    },
+    {
+      "name":"queens_glass",
+      "rarity":"pink",
+      "tab":"hero_token",
+      "stats": {
+        "fixed_attack":[50062, 100125, 200250, 400500, 801000],
+        "exclusive": {
+          "ranger": {
+            "dodge_rate":[3,4.5,6.8,10.2,15.3]
+          }
+        }
+      },
+      "chances":[0.2,0.2,0.2,0.2]
+    },
+    {
+      "name":"earthly_beauty_rouge",
+      "rarity":"pink",
+      "tab":"hero_token",
+      "stats": {
+        "fixed_hp":[4100625, 8201250, 16402500, 32805000, 65610000],
+        "exclusive": {
+          "assassin": {
+            "speed":[20,30,45,67,101]
+          }
+        }
+      },
+      "chances":[0.2,0.2,0.2,0.2]
+    }
+  ],
+  "rarity_shards": {
+    "purple":20,
+    "green":30,
+    "red":40,
+    "orange":50,
+    "pink":50
+  }
+}
